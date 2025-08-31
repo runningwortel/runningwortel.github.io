@@ -1,0 +1,2 @@
+# This file tells GitHub Pages to not process this site with Jekyll
+# This ensures that .well-known and other static files are served directly
