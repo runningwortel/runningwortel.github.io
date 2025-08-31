@@ -1,2 +1,18 @@
-name: true
-title: false
+name: SocialRunner
+title: SocialRunner App
+description: SocialRunner mobile app website
+url: https://www.socialrunner.app
+baseurl: ""
+
+# GitHub Pages configuration
+plugins:
+  - jekyll-seo-tag
+
+# Ensure .well-known directory is served
+include:
+  - .well-known
+
+# GitHub Pages settings
+github:
+  is_project_page: false
+  is_user_page: true
