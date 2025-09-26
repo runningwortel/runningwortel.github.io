@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "app.socialrunner.app1",
       "sha256_cert_fingerprints": [
-        "65:40:59:70:F9:A1:1D:81:50:D6:1A:4A:9A:61:98:ED:17:6B:74:F3:00:DD:D3:07:A6:CB:75:B7:14:9B:C0:32"
+        "65:40:59:70:F9:A1:1D:81:50:D6:1A:4A:9A:61:98:ED:17:6B:74:F3:00:DD:D3:07:A6:CB:75:B7:14:9B:C0:32",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
   }
